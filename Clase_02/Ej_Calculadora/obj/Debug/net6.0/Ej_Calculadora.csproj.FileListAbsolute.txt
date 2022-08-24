@@ -1,0 +1,15 @@
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\bin\Debug\net6.0\Ej_Calculadora.exe
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\bin\Debug\net6.0\Ej_Calculadora.deps.json
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\bin\Debug\net6.0\Ej_Calculadora.runtimeconfig.json
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\bin\Debug\net6.0\Ej_Calculadora.dll
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\bin\Debug\net6.0\Ej_Calculadora.pdb
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\obj\Debug\net6.0\Ej_Calculadora.csproj.AssemblyReference.cache
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\obj\Debug\net6.0\Ej_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\obj\Debug\net6.0\Ej_Calculadora.AssemblyInfoInputs.cache
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\obj\Debug\net6.0\Ej_Calculadora.AssemblyInfo.cs
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\obj\Debug\net6.0\Ej_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\obj\Debug\net6.0\Ej_Calculadora.dll
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\obj\Debug\net6.0\refint\Ej_Calculadora.dll
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\obj\Debug\net6.0\Ej_Calculadora.pdb
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\obj\Debug\net6.0\Ej_Calculadora.genruntimeconfig.cache
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Ej_Calculadora\obj\Debug\net6.0\ref\Ej_Calculadora.dll

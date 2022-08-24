@@ -1,0 +1,15 @@
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\bin\Debug\net6.0\Ej_Validador.exe
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\bin\Debug\net6.0\Ej_Validador.deps.json
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\bin\Debug\net6.0\Ej_Validador.runtimeconfig.json
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\bin\Debug\net6.0\Ej_Validador.dll
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\bin\Debug\net6.0\Ej_Validador.pdb
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\obj\Debug\net6.0\Ej_Validador.csproj.AssemblyReference.cache
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\obj\Debug\net6.0\Ej_Validador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\obj\Debug\net6.0\Ej_Validador.AssemblyInfoInputs.cache
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\obj\Debug\net6.0\Ej_Validador.AssemblyInfo.cs
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\obj\Debug\net6.0\Ej_Validador.csproj.CoreCompileInputs.cache
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\obj\Debug\net6.0\Ej_Validador.dll
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\obj\Debug\net6.0\refint\Ej_Validador.dll
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\obj\Debug\net6.0\Ej_Validador.pdb
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\obj\Debug\net6.0\Ej_Validador.genruntimeconfig.cache
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Validador\obj\Debug\net6.0\ref\Ej_Validador.dll

@@ -1,0 +1,5 @@
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Clase_02\obj\Debug\net6.0\Clase_02.csproj.AssemblyReference.cache
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Clase_02\obj\Debug\net6.0\Clase_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Clase_02\obj\Debug\net6.0\Clase_02.AssemblyInfoInputs.cache
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Clase_02\obj\Debug\net6.0\Clase_02.AssemblyInfo.cs
+C:\Users\rmarcast\Documents\UTN\Clase_02\Clase_02\Clase_02\obj\Debug\net6.0\Clase_02.csproj.CoreCompileInputs.cache
